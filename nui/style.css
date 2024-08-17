@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+}
+
+#player-container {
+    display: none;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+
+audio {
+    width: 300px;
+}
